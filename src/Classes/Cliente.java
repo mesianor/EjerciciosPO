@@ -44,4 +44,8 @@ public String getNombre(){
     public void setAlias(String nuevoAlias){
         this.alias= nuevoAlias;
     }
+
+    public void transferir(){
+
+    }
 }
